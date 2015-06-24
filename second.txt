@@ -1,1 +1,2 @@
 This is second file.
+added second line to bss_cloned
